@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋! Soy Juan Ramirez</h1>
-<h3 align="center">Programador Backend Junior & Futuro Ingeniero de Software</h3>
+<h3 align="center">Programador Backend Junior</h3>
 
 <br>
 

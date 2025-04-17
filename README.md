@@ -8,7 +8,7 @@
 
 🔭 Desarrollador Backend <br>
 🌱 Manejo de arquitectura de software y patrones de diseño <br> 
-💻 Me especializo en Java, Node.js y TypeScript <br> 
+💻 Me especializo en JavaScript y TypeScript <br> 
 📚 Estudiante de Ingeniería de Software
 
 <br>
@@ -16,9 +16,6 @@
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
     <!-- Backend -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     </a>
@@ -48,9 +45,6 @@
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 
 <!-- Mobile Development -->
